@@ -9,7 +9,7 @@ T5-small Summarizer с Gradio и spaCy (CPU)
 
 git clone https://github.com/SweetyKekS/t5-summarize.git
 
-cd t5-summarizer
+cd t5-summarize
 
 2. Для установки библиотек выполни следующие команды
 
