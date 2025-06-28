@@ -7,7 +7,7 @@ T5-small Summarizer с Gradio и spaCy (CPU)
 1. Клонируй репозиторий, выполнив команду в терминале:
 
 
-git clone https://github.com/yourusername/t5-summarizer.git
+git clone https://github.com/SweetyKekS/t5-summarize.git
 
 cd t5-summarizer
 
